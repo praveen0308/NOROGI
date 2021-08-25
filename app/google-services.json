@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736036331677",
+    "project_id": "norogi-12f3c",
+    "storage_bucket": "norogi-12f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736036331677:android:4a9e58c294c98e4a4e3474",
+        "android_client_info": {
+          "package_name": "com.jmm.brsap.norogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736036331677-bn2l3a2n3phadm17mgvq7rau5u0tplto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9J_ZvMJLv08V50k-YSkyCmItecMUmJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736036331677-bn2l3a2n3phadm17mgvq7rau5u0tplto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
